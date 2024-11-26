@@ -1,0 +1,9 @@
+Manufacturer=Fischer Elektronik GmbH & Co. KG
+PartNumber=BLLP412S
+PartCategory=Connector
+PackageCategory=Other
+PinCount=12
+Version=2.1
+Released=2024-06-06 05:06:52
+Downloaded=2024-10-15 21:40:21
+3D=Y

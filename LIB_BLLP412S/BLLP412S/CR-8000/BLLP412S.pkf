@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BLLP412S"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BLLP412S")
+        (spec "default")
+    )
+)

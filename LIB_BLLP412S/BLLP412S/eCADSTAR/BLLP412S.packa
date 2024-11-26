@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BLLP412S"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-06-05:06:52)
+    (mountForm default
+        (footprintRef "BLLP412S")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BLLP412S'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Fischer Elektronik GmbH & Co. KG", "BLLP412S" (!) = "", "BLLP412S", "Other", "", "", "", "", "12 postion female double row connectors ,stamped contact spring (fork contact) .125 V AC ,3 A ,2.54 pitch  ,gold-plated ,THT (soldering).", "https://www.fischerelektronik.de/web_fischer/en_GB/VA/BLLP412S/datasheet.xhtml", "5 mm"
+END_PART
+
+END.

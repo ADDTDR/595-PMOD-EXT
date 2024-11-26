@@ -1,0 +1,18 @@
+.BLLP412S :1 ;12 postion female double row connectors ,stamped contact spring (fork contact) .125 V AC ,3 A ,2.54 pitch  ,gold-plated ,THT (soldering).
+BLLP412S
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12"
+*MXP 12
+*DFN BLLP412S
+~!Manufacturer_Name (Fischer Elektronik GmbH & Co. KG)
+~!Manufacturer_Part_Number (BLLP412S)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.fischerelektronik.de/web_fischer/en_GB/VA/BLLP412S/datasheet.xhtml)
+~!Height (5mm)
+~!3D_Model (BLLP412S)
+BLLP412S
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

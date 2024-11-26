@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLLP412S
+D 12 postion female double row connectors ,stamped contact spring (fork contact) .125 V AC ,3 A ,2.54 pitch  ,gold-plated ,THT (soldering).
+K
+F https://www.fischerelektronik.de/web_fischer/en_GB/VA/BLLP412S/datasheet.xhtml
+$ENDCMP
+#
+#End Doc Library
